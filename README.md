@@ -20,15 +20,16 @@ pip install -r requirements.txt #(Python 2)
 
 ## Run the script
 
-To convert all the images in the same directory where converter.py is located, run the following command 
+To convert all the images in the same directory where converter.py is located, run the following command:
 
 ```
 python converter.py 
 ```
 
-To convert all the images in given directory, run the following command 
+To convert all the images in a given directory, run the following command:
 
 ```
 python converter.py my_directory
 ```
 
+See the example on the animated gif above.

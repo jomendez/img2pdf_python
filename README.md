@@ -6,7 +6,7 @@ This is specially useful to create sliders (like instagram slider) for Linkedin 
 
 ## Example
 
-![example](link)
+![example](https://github.com/jomendez/img2pdf_python/raw/master/img2pdf.gif)
 
 ## Install dependencies 
 
